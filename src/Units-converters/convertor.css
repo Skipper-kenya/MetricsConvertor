@@ -1,0 +1,92 @@
+.convertor-cont {
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(
+    rgb(204, 20, 204),
+    rgb(31, 46, 175),
+    rgb(66, 63, 83)
+  );
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+.convertor-cont h2 {
+  margin-bottom: 1rem;
+  font-style: italic;
+  font-family: serif;
+  font-size: 24px;
+}
+.con-handler {
+  height: 300px;
+  width: 300px;
+  background-color: honeydew;
+}
+.selector {
+  position: relative;
+  height: 20%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-around;
+}
+.select {
+  font-size: 18px;
+  font-weight: bold;
+  outline: none;
+  font-style: italic;
+  font-family: serif;
+  text-transform: capitalize;
+  letter-spacing: 1px;
+  padding: 4px;
+  border: 2px solid burlywood;
+}
+.select option {
+  border: 1px solid burlywood;
+  text-transform: capitalize;
+}
+.forms {
+  width: 80%;
+  height: 20%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0 auto;
+}
+.forms input {
+  width: 40%;
+  padding: 10px;
+  font-size: 16px;
+  font-family: arial;
+  border: 1px solid burlywood;
+  outline: none;
+}
+.forms button {
+  width: 50%;
+  margin-left: 5%;
+  padding: 10px;
+  background-color: cadetblue;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  letter-spacing: 1px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.forms button:hover {
+  background-color: rgb(146, 24, 146);
+  transition: 0.4s;
+}
+.results-cont {
+  height: 20%;
+  width: 90%;
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  text-transform: capitalize;
+}
