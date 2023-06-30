@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MetricsConvertor/static/css/main.46902ce3.css",
+    "main.js": "/MetricsConvertor/static/js/main.6bb26de5.js",
+    "static/js/787.f1e5daf4.chunk.js": "/MetricsConvertor/static/js/787.f1e5daf4.chunk.js",
+    "index.html": "/MetricsConvertor/index.html",
+    "main.46902ce3.css.map": "/MetricsConvertor/static/css/main.46902ce3.css.map",
+    "main.6bb26de5.js.map": "/MetricsConvertor/static/js/main.6bb26de5.js.map",
+    "787.f1e5daf4.chunk.js.map": "/MetricsConvertor/static/js/787.f1e5daf4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46902ce3.css",
+    "static/js/main.6bb26de5.js"
+  ]
+}
